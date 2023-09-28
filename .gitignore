@@ -1,0 +1,11 @@
+# Environments
+.venv
+.venv_project
+.env
+env/
+venv/
+venv_project/
+env.bak/
+venv.bak/
+venv_project.bak/
+housing 2.csv
